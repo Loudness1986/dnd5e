@@ -14,17 +14,8 @@
 
 <script src="./script.js"></script>
 <body style='margin: 0; overflow: hidden;'>
-    <a-scene
-       vr-mode-ui="enabled: false"
-		embedded
-        arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1260; displayHeight: 1000; debugUIEnabled: false;'>
-        <a-camera gps-camera rotation-reader>
-		</a-camera>
-
-        <a-entity scale=".2 .2 .2"> 
-            <a-entity gltf-model="./assets/alyssa/scene.gltf" scale="3 3 3" crossOrigin="anonymous">
-            </a-entity>
-            <a-marker-camera preset='hiro'></a-marker-camera>
-
-	</a-scene>
+    <a-entity scale=".2 .2 .2"> 
+        <a-entity gltf-model="./assets/alyssa/scene.gltf" scale="3 3 3" crossOrigin="anonymous">
+        </a-entity>
+        <a-marker-camera preset='hiro'></a-marker-camera>
 </body>
