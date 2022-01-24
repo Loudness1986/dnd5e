@@ -8,8 +8,8 @@ function staticLoadPlaces() {
        {
            name: 'alyssa',
            location: {
-               lat: 44.496470,
-               lng: 11.320180,
+               lat: 9.565392,
+               lng: -69.211840,
            }
        },
    ];
