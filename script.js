@@ -6,7 +6,7 @@ window.onload = () => {
 function staticLoadPlaces() {
    return [
        {
-           name: 'alyssa',
+           name: 'Pokèmon',
            location: {
                lat: 9.565392,
                lng: -69.211840,
