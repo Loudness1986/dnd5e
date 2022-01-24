@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Puppet Doll
+* source:	https://sketchfab.com/3d-models/flying-puppet-doll-3013d05f49544de9bb6fd140a9e97893
+* author:	Vindr Damsgard (https://sketchfab.com/vindr)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Puppet Doll" (https://sketchfab.com/3d-models/flying-puppet-doll-3013d05f49544de9bb6fd140a9e97893) by Vindr Damsgard (https://sketchfab.com/vindr) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
