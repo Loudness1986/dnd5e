@@ -14,8 +14,10 @@
 
 <script src="./script.js"></script>
 <body style='margin: 0; overflow: hidden;'>
-    <a-entity scale=".2 .2 .2"> 
-        <a-entity gltf-model="./assets/alyssa/scene.gltf" scale="3 3 3" crossOrigin="anonymous">
-        </a-entity>
-        <a-marker-camera preset='hiro'></a-marker-camera>
+    <a-scene embedded arjs>
+        <a-entity scale=".2 .2 .2"> 
+          <a-entity gltf-model="./assets/alyssa/scene.gltf" scale="3 3 3" crossOrigin="anonymous">
+          </a-entity>
+          <a-marker-camera preset='hiro'></a-marker-camera>
+          </a-scene>
 </body>
